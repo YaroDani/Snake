@@ -1,2 +1,2 @@
 # Snake
-Це моя перша гра в гітхабі
+1-st game on Github
